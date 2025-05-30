@@ -1,5 +1,8 @@
 # Movie-Recommendation-Using-Unsupervised-Learning
 
+📦 Full Dataset (300MB): [Download from Google Drive](https://drive.google.com/file/d/1jf08yEU-1hQSGpFjjph77R4shUBHRHuF/view?usp=sharing)
+
+
 ## 📌 Introduction
 
 In today’s digital age, users are overwhelmed with the vast array of movie options available across various streaming platforms. As a result, deciding **what to watch next** has become increasingly challenging.
